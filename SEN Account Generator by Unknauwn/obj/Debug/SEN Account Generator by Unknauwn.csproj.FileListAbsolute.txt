@@ -1,0 +1,9 @@
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\bin\Debug\SEN Account Generator by Unknauwn.exe.config
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\bin\Debug\SEN Account Generator by Unknauwn.exe
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\bin\Debug\SEN Account Generator by Unknauwn.pdb
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN Account Generator by Unknauwn.csprojResolveAssemblyReference.cache
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN_Account_Generator_by_Unknauwn.Properties.Resources.resources
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN Account Generator by Unknauwn.csproj.GenerateResource.Cache
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN Account Generator by Unknauwn.exe
+c:\users\artistiksart\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN Account Generator by Unknauwn.pdb
+C:\Users\ArtistiksArt\documents\visual studio 2015\Projects\SEN Account Generator by Unknauwn\SEN Account Generator by Unknauwn\obj\Debug\SEN_Account_Generator_by_Unknauwn.SenAccountGenerator.resources
